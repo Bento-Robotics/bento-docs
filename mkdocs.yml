@@ -1,5 +1,5 @@
 site_name: Bento Robots
-site_url: https://bento-robotics.github.io/bento_robodocs/ #TODO
+site_url: https://bento-robotics.github.io/bento-docs/
 theme:
   name: material
   features:
